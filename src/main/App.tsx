@@ -2,12 +2,14 @@ import React from 'react';
 import './App.css';
 import {HW1} from "../homeworks/hw01/HW1";
 import {HW2} from "../homeworks/hw02/HW2";
+import {HW3} from "../homeworks/hw03/HW3";
 
 function App() {
    return (
        <div>
            {/*<HW1/>*/}
-           <HW2/>
+           {/*<HW1/>*/}
+           <HW3/>
        </div>
    )
 }
