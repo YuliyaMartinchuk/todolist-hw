@@ -1,5 +1,5 @@
 import React from 'react';
-import {Data} from "./App";
+import {Data} from "../HW1";
 
 type Props = {
     data: Data
