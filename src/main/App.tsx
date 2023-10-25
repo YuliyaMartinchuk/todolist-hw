@@ -3,13 +3,15 @@ import './App.css';
 import {HW1} from "../homeworks/hw01/HW1";
 import {HW2} from "../homeworks/hw02/HW2";
 import {HW3} from "../homeworks/hw03/HW3";
+import {HW4} from "../homeworks/hw04/HW4";
 
 function App() {
    return (
        <div>
            {/*<HW1/>*/}
            {/*<HW1/>*/}
-           <HW3/>
+           {/*<HW3/>*/}
+           <HW4/>
        </div>
    )
 }
